@@ -12,7 +12,7 @@ To view all identified vulnerabilities, simply click on the "Vulnerabilities" op
 
 <div style={{textAlign: 'center'}}>
 
-![img](../../static/img/vulnerabilities_management-img1.png)
+![img](../../static/img/vulnerabilities_01.png)
 
 </div>
 
